@@ -1,0 +1,70 @@
+<html>
+ <head>
+  <title>Путешевствие в Австрию</title>
+ </head>
+ <body>
+ 
+<img src="55.jpg" alt="Главная" width="100%"> 
+	  <h1 align="center">Путешествие в Австрию</h1>
+	    <table border="0" align="center" cellspacing="30">
+		  <tr align="center">
+	      <td><a href="Главная.htm"><img src=57.jpg alt="Главная" width="195" height="157">
+	      <td><a href="Достопримечательности.htm"><img src=59.jpg alt="Достопримечательности" width="195" height="157">
+	      <td><a href="История.htm"><img src=58.jpg alt="Границы" width="195" height="157">
+	      <td><a href="Знаменитости из Австрии.htm"><img src=60.jpg alt="Арка" width="195" height="157">
+		  </tr>
+	      <tr align="center">
+	      <td><a href="Главная.htm">Главная</a></td>
+          <td><a href="Достопримечательности.htm">Достопримечательности</a></td>
+	      <td><a href="История.htm">История</a></td>
+	      <td><a href="Знаменитости из Австрии.htm">Знаменитости из Австрии</a></td>
+	      </tr>
+	 
+        </table>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+	 <style>
+   body {
+    background: #c7b39b url(61.jpg); 
+   }
+  </style>
+ </head>
+ <body>
+  <p>...</p>
+ </body>
+</html>
+        </table>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		
+	<div align="center">
+<P ALIGN="center">
+       [<A HREF="Главная.htm">Главная</A>] &nbsp[<A HREF="Достопримечательности.htm">Достопримечательности
+</A>] &nbsp[<A HREF="История.htm">История</A>] [<A HREF="Знаменитости из Австрии.htm">Знаменитости из Австрии</A>]
+       </P>
+<style>
+   body {
+    background: #c7b39b url(61.jpg); 
+   }
+  </style>
+ </head>
+ <body>
+  <p>Работу выполнил: Михаил Милославский</p>
+ </body>
+</html>
+ </body>
+ 
+</html>
+
+   </div>
+ </body>
+ 
+</html>
